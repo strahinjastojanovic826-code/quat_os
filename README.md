@@ -66,14 +66,6 @@ A hardware-assisted legal simulation engine designed to model high-profile celeb
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/QuatEngine-4x8.git](https://github.com/your-username/QuatEngine-4x8.git)
-
----
-
 📸 Screenshots & Preview
 
 <img width="1920" height="1080" alt="Screenshot 2026-09-30 140648" src="https://github.com/user-attachments/assets/e4ce6a74-6fed-4eaf-ad29-f45705ffae5c" />
