@@ -6,7 +6,7 @@ authors = ["Strale <strahinjastojanovic826@gmail.com>"]
 description = "Base-4^8 Quaternary OS and hardware simulation."
 license = "GPL-2.0-or-later"
 readme = "README.md"
-repository = "https://github.com/your-username/quat-engine"
+repository = "https://github.com/strahinjastojanovic826-code/quat_os"
 keywords = ["quaternary", "base-4", "simulation", "os"]
 categories = ["emulators", "simulation"]
 
