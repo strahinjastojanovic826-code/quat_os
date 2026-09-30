@@ -76,15 +76,12 @@ A hardware-assisted legal simulation engine designed to model high-profile celeb
 
 📸 Screenshots & Preview
 
-![alt text](<Screenshot 2026-09-29 165156-1.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-09-30 140648" src="https://github.com/user-attachments/assets/e4ce6a74-6fed-4eaf-ad29-f45705ffae5c" />
 
 
-![alt text](<Screenshot 2026-09-29 165211.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-09-30 140711" src="https://github.com/user-attachments/assets/4d2924e2-4917-4af0-9c24-25b88103172a" />
 
 
-![alt text](<Screenshot 2026-09-29 165221-1.png>)
-
-
-![alt text](<Screenshot 2026-09-29 165315.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-09-30 140728" src="https://github.com/user-attachments/assets/d507b690-c5d9-4595-8770-1c96274a81c1" />
 
 ---
